@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project leverages Multimodal AI Agents to analyze medical reports from various specialist perspectives, including cardiology, psychology, pulmonology, neurology, endocrinology, and immunology. Using LangChain, OpenAI's GPT models, and PyMuPDF, the system extracts insights from a PDF medical report, processes it through multiple AI-powered agents, and generates a comprehensive multidisciplinary diagnosis.
+This project leverages Multimodal AI Agents to analyze medical reports from various specialist perspectives, including **cardiology, psychology, pulmonology, neurology, endocrinology, and immunology**. Using LangChain, OpenAI's GPT models, and PyMuPDF, the system extracts insights from a PDF medical report, processes it through multiple AI-powered agents, and generates a comprehensive multidisciplinary diagnosis.
 
 ## Features
 - Multimodal AI Agents for different medical specialties.
