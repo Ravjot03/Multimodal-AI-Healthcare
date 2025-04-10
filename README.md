@@ -29,4 +29,13 @@ This project leverages Multimodal AI Agents to analyze medical reports from vari
 
 ## Streamlit UI
 
+### Homescreen
+
+![Screenshot 2025-04-09 at 10 47 46 PM](https://github.com/user-attachments/assets/bc055b8e-a8cd-410a-a517-1cedff4dcec8)
+
+
+### Output Report
+
 ![Screenshot 2025-04-09 at 10 48 42 PM](https://github.com/user-attachments/assets/7aa54306-72c1-4e2d-9118-efcb9bad69f7)
+
+
