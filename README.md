@@ -25,3 +25,8 @@ This project leverages Multimodal AI Agents to analyze medical reports from vari
 3. Generate Specialist Insights: AI provides specialist-specific findings.
 4. Multidisciplinary Analysis: The final AI agent synthesizes all responses into a structured diagnosis.
 5. Store the Output: The final diagnosis is saved as a text file for review.
+
+
+## Streamlit UI
+
+![Screenshot 2025-04-09 at 10 48 42 PM](https://github.com/user-attachments/assets/7aa54306-72c1-4e2d-9118-efcb9bad69f7)
